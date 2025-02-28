@@ -10,6 +10,13 @@ public class GitApplication {
 		SpringApplication.run(GitApplication.class, args);
 
 		System.out.println("Hello");
+
+
+	}
+
+	public void disp()
+	{
+		System.out.println("Want to see the commit and Log");
 	}
 
 }
