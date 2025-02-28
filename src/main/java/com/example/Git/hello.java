@@ -6,6 +6,7 @@ public class hello {
 
         System.out.println("adding code");
         System.out.println("sssss");
+        System.out.println(5+5);
 
 
 
