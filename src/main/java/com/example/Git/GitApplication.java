@@ -9,7 +9,8 @@ public class GitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitApplication.class, args);
 
-		System.out.println("Hello");
+		System.out.println("Happy Birthday");
+		System.out.println("commit 2");
 
 
 	}
