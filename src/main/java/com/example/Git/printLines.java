@@ -7,5 +7,7 @@ public class printLines {
         System.out.println("printLine1"+1);
 
         System.out.println("PrintLine2"+2);
+
+        System.out.println("PrintLine3"+3);
     }
 }
