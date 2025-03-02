@@ -2,9 +2,15 @@ package practice;
 
 public class Calculator {
 
+    public void suchitrasFunction()
+    {
+        System.out.println("Checking How Branching are work");
+    }
+
     public static void main(String[] args) {
 
-
+        Calculator c = new Calculator();
+        c.suchitrasFunction();
         System.out.println("Addition---");
         System.out.println( 5+5 );
 
