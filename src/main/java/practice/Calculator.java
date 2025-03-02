@@ -11,5 +11,12 @@ public class Calculator {
         System.out.println("Now Sub");
 
         System.out.println("Helloooooooooooooooooooogit");
+
+        System.out.println("Subbbb");
+
+        System.out.println(9-6);
+
+        System.out.println("Multiplication ---");
+        System.out.println(5*5);
     }
 }
