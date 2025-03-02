@@ -7,10 +7,16 @@ public class Calculator {
         System.out.println("Checking How Branching are work");
     }
 
+    public void bhushanFunction()
+    {
+        System.out.println("This is bhushans branch");
+    }
+
     public static void main(String[] args) {
 
         Calculator c = new Calculator();
         c.suchitrasFunction();
+        c.bhushanFunction();
         System.out.println("Addition---");
         System.out.println( 5+5 );
 
