@@ -30,5 +30,9 @@ public class Calculator {
 
         System.out.println("Multiplication ---");
         System.out.println(5*5);
+
+        System.out.println("Pooja Branch perform Devide");
+
+        System.out.println(10/2);
     }
 }
